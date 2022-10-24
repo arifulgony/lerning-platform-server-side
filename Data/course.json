@@ -51,10 +51,13 @@
     },
     {
     "id": 6,
-    "title": "Learn HTML",
-    "description": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn - You will enjoy it! Study ...",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png",
-    "price":"20$"
+    "title": "Mithril",
+    "image": "https://miro.medium.com/max/580/1*RaHKi0hV80bK6iJZ6edKQQ.jpeg",
+    "writer":"Nahid Hassan Bulbul",
+    "writer-img":"https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/285574690_10159863140175149_3297818056642167346_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEUhqEYCdR8oRLmmW7I0iJejY56FJXBV8aNjnoUlcFXxl9prqmah3cSUwPTg5XcU04XRJzXX0bkfPWvMsoHmQHx&_nc_ohc=98Vca9Ap7OoAX9RoB__&_nc_ht=scontent.fdac157-1.fna&oh=00_AT_d4hNUgHeUHxeBwo-PUn-D8mOTWkHOX3FyfG29llFfPg&oe=635B91B0",
+    "seats-left":"05",
+    "price":"30$",
+    "description": "Mithril is a client-side JavaScript framework that is used primarily in developing Single Page Applications. As there are no derived functions from a base class, the framework's implementation is more straightforward. It's small (< 8kb gzip), fast, and provides routing and XHR utilities out of the box."
     }
 
     ]
