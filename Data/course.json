@@ -1,6 +1,6 @@
     [
     {
-    "id": 1,
+    "id":1,
     "title": "Angular",
     "image": "https://www.kindpng.com/picc/m/75-750111_angularjs-hd-png-download.png",
     "writer":"Rasel Ahmed",
@@ -10,7 +10,7 @@
     "description": "One of the most powerful and efficient JavaScript frameworks, Angular is an open-source framework that is used for developing a Single Page Application (SPA). It extends the HTML into the application and interprets the attributes to perform data binding.Angular is an application-design framework and development platform for creating efficient and sophisticated single-page apps."
     },
     {
-    "id": 2,
+    "id":2,
     "title": "React",
     "image": "https://ih1.redbubble.net/image.575175911.7986/st,small,507x507-pad,600x600,f8f8f8.u2.jpg",
     "writer":"Emdadul Hoque Tareque",
@@ -20,7 +20,7 @@
     "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug.Build encapsulated components that manage their own state, then compose them to make complex UIs.Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.React can also render on the server using Node and power mobile apps using React Native."
     },
     {
-    "id": 3,
+    "id":3,
     "title": "Vue.js",
     "image": "https://miro.medium.com/max/1200/1*qHsE-PM5TLmqzmYjmlr6-A.png",
     "writer":"Moniruzzaman Shakib",
@@ -30,7 +30,7 @@
     "description": "Though developed in the year 2016, this JavaScript framework has already made its way into the market and has proven its worth by offering numerous features. Its dual integration mode is one of the most attractive features for creating a high-end SPA. It is a reliable platform for cross-platform development."
     },
     {
-    "id": 4,
+    "id":4,
     "title": " Ember.js",
     "image": "https://cdn.shopify.com/s/files/1/1080/6594/files/ember_logo_framed_high_orange_white_600_3bc26ee3-90d8-413c-b997-d77e50f195b1.jpg?v=1631044891",
     "writer":"Engr Israfil Hossen",
@@ -40,7 +40,7 @@
     "description": "Ember.js arrived in 2015, and since then, it has gained popularity with its wide application area. The features of Ember.js support two-way data binding and this makes it a reliable platform for handling complicated User Interfaces. Popular websites like LinkedIn, Netflix, and Nordstrom use Ember.js for their websites."
     },
     {
-    "id": 5,
+    "id":5,
     "title": " Meteor",
     "image": "https://img.freepik.com/premium-vector/meteor-logo-template-design-vector_316488-1467.jpg?w=2000",
     "writer":"Fahim Ahammed Firoz",
@@ -50,7 +50,7 @@
     "description": "Meteor has several different uses, covering a significant portion of the software development. Uses include back-end development, management of the database, business logic, and rendering of the front-end."
     },
     {
-    "id": 6,
+    "id":6,
     "title": "Mithril",
     "image": "https://miro.medium.com/max/580/1*RaHKi0hV80bK6iJZ6edKQQ.jpeg",
     "writer":"Nahid Hassan Bulbul",
@@ -59,5 +59,5 @@
     "price":"30$",
     "description": "Mithril is a client-side JavaScript framework that is used primarily in developing Single Page Applications. As there are no derived functions from a base class, the framework's implementation is more straightforward. It's small (< 8kb gzip), fast, and provides routing and XHR utilities out of the box."
     }
-
+    
     ]
