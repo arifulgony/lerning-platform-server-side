@@ -7,7 +7,9 @@
     "writer-img":"https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/261149634_1232789030538860_5634830573577057891_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF5CsemYzD1NdeAorMiau0zwScxtuOcp0zBJzG245ynTLRmwNvO8sficXyC4aqQO4eFWk_Do9Bj-PjwZRgrShN-&_nc_ohc=Ex_Uf4aLuIIAX8mtvrL&_nc_oc=AQmdLFeYh5qMwPKpT9nnLz-C0w2VhZ4-NF7zhLmF2a5VrHzekQLwRWFYOI_2kyohLJg&tn=QEaeXkdIkMAwabVo&_nc_ht=scontent.fdac157-1.fna&oh=00_AT-xBR80ioSB3bpir8_MnF3-YjTfuRsPvkfOYEQVhMuXUQ&oe=635B21B6",
     "seats-left":"07",
     "price":"20$",
-    "description": "One of the most powerful and efficient JavaScript frameworks, Angular is an open-source framework that is used for developing a Single Page Application (SPA). It extends the HTML into the application and interprets the attributes to perform data binding.Angular is an application-design framework and development platform for creating efficient and sophisticated single-page apps."
+    "description": "One of the most powerful and efficient JavaScript frameworks, Angular is an open-source framework that is used for developing a Single Page Application (SPA). It extends the HTML into the application and interprets the attributes to perform data binding.Angular is an application-design framework and development platform for creating efficient and sophisticated single-page apps.",
+    "benar-img":"https://www.freecodecamp.org/news/content/images/2021/10/angular.png"
+
     },
     {
     "id":2,
@@ -17,7 +19,8 @@
     "writer-img":"https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/293643895_5257455917683561_347579848857232937_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGeFMbxZq8P4NvA8PCAyBdhDCLWDhZXlV8MItYOFleVX9lkYr3sf_esRgUVvQrlUM3PdOyCvcX4aUC_18jPkFqg&_nc_ohc=sgRfNfeLF1wAX-TLHG_&_nc_ht=scontent.fdac157-1.fna&oh=00_AT_XMZHQ6bxnUZKnSUkRyxpjxZwY_OEnkgb_yD2cOEGH7A&oe=635BA00C",
     "seats-left":"05",
     "price":"30$",
-    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug.Build encapsulated components that manage their own state, then compose them to make complex UIs.Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.React can also render on the server using Node and power mobile apps using React Native."
+    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug.Build encapsulated components that manage their own state, then compose them to make complex UIs.Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.React can also render on the server using Node and power mobile apps using React Native.",
+    "benar-img":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210122183844/How-to-Learn-ReactJS-in-2021.png"
     },
     {
     "id":3,
@@ -27,27 +30,30 @@
     "writer-img":"https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/294708061_718801509398335_67748911322710862_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEbmuu_2KbATTFB2o4pcK2klmD57v-CZoaWYPnu_4Jmhs6r1b98YkDRPDWhrkVNQD7bOypeZs3-6Ep5iV9nczB_&_nc_ohc=rmxlDCPE7P4AX9XBEmQ&_nc_ht=scontent.fdac157-1.fna&oh=00_AT9zAK0qHogdq4Z3UY2N33nNlXV-z5REBeAGC0YCDzg7Rw&oe=635CAA8D",
     "seats-left":"09",
     "price":"20$",
-    "description": "Though developed in the year 2016, this JavaScript framework has already made its way into the market and has proven its worth by offering numerous features. Its dual integration mode is one of the most attractive features for creating a high-end SPA. It is a reliable platform for cross-platform development."
+    "description": "Though developed in the year 2016, this JavaScript framework has already made its way into the market and has proven its worth by offering numerous features. Its dual integration mode is one of the most attractive features for creating a high-end SPA. It is a reliable platform for cross-platform development.",
+    "benar-img":"https://cdn.hashnode.com/res/hashnode/image/upload/v1618808682726/9OrWt-O8y.png"
     },
     {
     "id":4,
-    "title": " Ember.js",
+    "title": "Ember.js",
     "image": "https://cdn.shopify.com/s/files/1/1080/6594/files/ember_logo_framed_high_orange_white_600_3bc26ee3-90d8-413c-b997-d77e50f195b1.jpg?v=1631044891",
     "writer":"Engr Israfil Hossen",
     "writer-img":"https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/237280990_1232826947176564_4226040752275152435_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEH5-tc_I2glNzjga2z0hJh17Nx00W63v7Xs3HTRbre_vMhQ8s8G7y-UwW-g8WWzaZ7ogc4TdKv5nvH_XKJ_ffd&_nc_ohc=M8P4vUcFrFwAX9Y0Zck&_nc_ht=scontent.fdac157-1.fna&oh=00_AT972aRLkXjC72_azk0gK1e-kMZBBjUtzuWBD0va7h7vxA&oe=635B3B16",
     "seats-left":"11",
     "price":"25$",
-    "description": "Ember.js arrived in 2015, and since then, it has gained popularity with its wide application area. The features of Ember.js support two-way data binding and this makes it a reliable platform for handling complicated User Interfaces. Popular websites like LinkedIn, Netflix, and Nordstrom use Ember.js for their websites."
+    "description": "Ember.js arrived in 2015, and since then, it has gained popularity with its wide application area. The features of Ember.js support two-way data binding and this makes it a reliable platform for handling complicated User Interfaces. Popular websites like LinkedIn, Netflix, and Nordstrom use Ember.js for their websites.",
+    "benar-img":"https://cdn0.icicletech.com/media/ember-logo.jpg"
     },
     {
     "id":5,
-    "title": " Meteor",
+    "title": "Meteor",
     "image": "https://img.freepik.com/premium-vector/meteor-logo-template-design-vector_316488-1467.jpg?w=2000",
     "writer":"Fahim Ahammed Firoz",
     "writer-img":"https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/293193588_1441788119566380_7420957908973219114_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGSZfXBTFVvYOKqyTjyH6JX-sUbeI1tQD36xRt4jW1APeXdAPbbls7TZRfXLqOSklHQLwlXuPcQaUuGFdRf9z1Z&_nc_ohc=S2Viz250a88AX9m4DB8&_nc_ht=scontent.fdac157-1.fna&oh=00_AT8vJNBWQngtViDex2esXlCMuUYng0xOuFsls-PJyqU63A&oe=635BFCD4",
     "seats-left":"15",
     "price":"20$",
-    "description": "Meteor has several different uses, covering a significant portion of the software development. Uses include back-end development, management of the database, business logic, and rendering of the front-end."
+    "description": "Meteor has several different uses, covering a significant portion of the software development. Uses include back-end development, management of the database, business logic, and rendering of the front-end.",
+    "benar-img":"https://miro.medium.com/max/1400/0*Cb6cp4KMmnwIL-dg.jpg"
     },
     {
     "id":6,
@@ -57,7 +63,8 @@
     "writer-img":"https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/285574690_10159863140175149_3297818056642167346_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEUhqEYCdR8oRLmmW7I0iJejY56FJXBV8aNjnoUlcFXxl9prqmah3cSUwPTg5XcU04XRJzXX0bkfPWvMsoHmQHx&_nc_ohc=98Vca9Ap7OoAX9RoB__&_nc_ht=scontent.fdac157-1.fna&oh=00_AT_d4hNUgHeUHxeBwo-PUn-D8mOTWkHOX3FyfG29llFfPg&oe=635B91B0",
     "seats-left":"05",
     "price":"30$",
-    "description": "Mithril is a client-side JavaScript framework that is used primarily in developing Single Page Applications. As there are no derived functions from a base class, the framework's implementation is more straightforward. It's small (< 8kb gzip), fast, and provides routing and XHR utilities out of the box."
+    "description": "Mithril is a client-side JavaScript framework that is used primarily in developing Single Page Applications. As there are no derived functions from a base class, the framework's implementation is more straightforward. It's small (< 8kb gzip), fast, and provides routing and XHR utilities out of the box.",
+    "benar-img":"https://miro.medium.com/max/580/1*RaHKi0hV80bK6iJZ6edKQQ.jpeg"
     }
     
     ]
