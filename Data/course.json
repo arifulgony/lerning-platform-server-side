@@ -42,7 +42,7 @@
     "seatsLeft":"11",
     "price":"25$",
     "description": "Ember.js arrived in 2015, and since then, it has gained popularity with its wide application area. The features of Ember.js support two-way data binding and this makes it a reliable platform for handling complicated User Interfaces. Popular websites like LinkedIn, Netflix, and Nordstrom use Ember.js for their websites.",
-    "benarImg":"https://cdn0.icicletech.com/media/ember-logo.jpg"
+    "benarImg":"https://www.educative.io/v2api/collection/10370001/5813666204614656/image/6636617381183488"
     },
     {
     "id":5,
@@ -64,7 +64,7 @@
     "seatsLeft":"05",
     "price":"30$",
     "description": "Mithril is a client-side JavaScript framework that is used primarily in developing Single Page Applications. As there are no derived functions from a base class, the framework's implementation is more straightforward. It's small (< 8kb gzip), fast, and provides routing and XHR utilities out of the box.",
-    "benarImg":"https://miro.medium.com/max/580/1*RaHKi0hV80bK6iJZ6edKQQ.jpeg"
+    "benarImg":"https://blockonomi.com/wp-content/uploads/2018/04/mithril-guide.jpg"
     }
     
     ]
